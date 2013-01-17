@@ -1,0 +1,10 @@
+database:
+  adapter: postgresql
+  database: brigade
+  host: localhost
+  pool: 5
+  timeout: 5000
+
+reddit:
+  username: 'your_reddit_id'
+  password: 'your_reddit_password'
